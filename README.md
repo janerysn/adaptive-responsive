@@ -1,16 +1,9 @@
-# adaptive_responsive
+<h3>Nama : Zahra Jane Arnecia <BR>
+    NPM  : 4522210028</h3>
 
-Adaptive and Responsive Application
+# adaptive_responsive (Floating Button)
+<img src ="https://github.com/user-attachments/assets/44590e7b-7374-4fe6-a618-15a2eef975cd" width= "300px"><br>
+<img src ="https://github.com/user-attachments/assets/d142fc70-be61-4e52-adec-9e41d78c2a18" width= "300px"><br>
+<img src ="https://github.com/user-attachments/assets/27946582-626b-4eb3-a033-568fa24693e4" width= "300px"><br>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
